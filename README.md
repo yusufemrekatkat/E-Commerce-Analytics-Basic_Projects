@@ -37,4 +37,4 @@ Applied mathematical modeling and machine learning analyses to drive data-orient
 
 ---
 
-**Author:** Yusuf Emre Katkat | Mathematical Engineering Student
+**Author:** Yusuf Emre Katkat | Mathematical Engineering Student 
